@@ -17,7 +17,7 @@ export default function Sidebar() {
   };
 
   return (
-    <aside className="fixed left-0 top-0 h-screen w-72 bg-white border-r border-neutral-100 flex flex-col z-50">
+    <aside className="hidden md:flex fixed left-0 top-0 h-screen w-72 bg-white border-r border-neutral-100 flex-col z-50">
       {/* Logo 区域 */}
       <div className="p-8 border-b border-neutral-100">
         <Link href="/">

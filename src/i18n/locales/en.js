@@ -27,8 +27,8 @@ export default {
   "home": {
     "welcome": "Welcome",
     "title": "Crafting Visual\nExperiences",
-    "description": "I'm Luna Qiu, a visual designer passionate about creating meaningful and impactful designs. I specialize in brand identity, graphic design, photography, and video editing, bringing ideas to life through thoughtful visual storytelling.",
-    "tags": ["Brand Identity", "Graphic Design", "Photography", "Video"],
+    "description": "I am Luna, a visual designer in the early stages of my career. I have a strong interest in brand identity, graphic design, photography, and video editing, and I am currently practicing how to communicate information through visual language through hands-on projects. Still growing, but taking every detail seriously.",
+    "tags": ["Brand Identity", "Graphic Design", "Photography", "Editing"],
     "stats": {
       "years": "Years Experience",
       "projects": "Projects",

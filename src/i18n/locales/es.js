@@ -27,8 +27,8 @@ export default {
   "home": {
     "welcome": "Bienvenido",
     "title": "Creando\nExperiencias Visuales",
-    "description": "Soy Luna Qiu, una diseñadora visual apasionada por crear diseños significativos e impactantes. Me especializo en identidad de marca, diseño gráfico, fotografía y edición de video, dando vida a las ideas a través de narrativas visuales reflexivas.",
-    "tags": ["Identidad de Marca", "Diseño Gráfico", "Fotografía", "Video"],
+    "description": "Soy Luna, una diseñadora visual en los primeros años de su carrera. Tengo un profundo interés en la identidad de marca, el diseño gráfico, la fotografía y la edición de video, y actualmente estoy practicando cómo comunicar información a través del lenguaje visual mediante proyectos prácticos. Todavía estoy creciendo, pero me tomo cada detalle en serio.",
+    "tags": ["Identidad de Marca", "Diseño Gráfico", "Fotografía", "Edición de Video"],
     "stats": {
       "years": "Años de Experiencia",
       "projects": "Proyectos",
