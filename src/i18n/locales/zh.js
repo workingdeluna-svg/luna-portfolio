@@ -22,7 +22,8 @@ export default {
     "landscape": "风光",
     "portrait": "人像",
     "street": "街景",
-    "personal-projects": "个人项目"
+    "personal-projects": "个人项目",
+    "comercial": "商业"
   },
   "home": {
     "welcome": "欢迎",
@@ -85,9 +86,9 @@ export default {
         "title": "TikTok 电商短视频",
         "description": "快节奏剪辑、动态字幕和产品导向的叙事"
       },
-      "22": {
-        "title": "字体动画",
-        "description": "动态字体实验"
+      "4": {
+        "title": "展会总结视频",
+        "description": "快节奏剪辑，配合以产品为核心的叙事。"
       },
       "23": {
         "title": "产品演示",

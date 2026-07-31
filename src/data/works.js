@@ -17,7 +17,7 @@ export const workCategories = [
   },
   {
     id: 'video-editor',
-    name: 'Videography',
+    name: 'Video Editing',
     description: 'Crafting moving images that engage and inspire through dynamic storytelling, cinematic quality, and thoughtful editing.'
   },
 ];
@@ -76,6 +76,7 @@ export const worksData = {
       { id: 'portrait', name: 'Portrait' },
       { id: 'street', name: 'Street' },
       { id: 'personal-projects', name: 'Personal Projects' },
+      { id: 'comercial', name: 'Comercial' },
     ],
     // 风光摄影
     landscape: [
@@ -107,6 +108,14 @@ export const worksData = {
         id: 'landscape-7',
         image: '/image/images/9.jpg',
       },
+      {
+        id: 'landscape-8',
+        image: '/image/images/landscape/F1.jpg',
+      },
+      {
+        id: 'landscape-9',
+        image: '/image/images/landscape/F2.jpg',
+      },
 
     ],
     // 人像摄影
@@ -122,7 +131,7 @@ export const worksData = {
     street: [
       {
         id: 'street-1',
-        image: '',
+        image: '/image/images/street/F4.jpg',
       },
 
     ],
@@ -205,6 +214,25 @@ export const worksData = {
         image: '/image/images/personal/V1.jpg',
       },
     ],
+        // 商业摄影
+    comercial: [
+     {
+        id: 'comercial-1',
+        image: '/image/images/comercial/ALI1.jpg',
+      },
+     {
+        id: 'comercial-2',
+        image: '/image/images/comercial/ALI2.jpg',
+      },
+     {
+        id: 'comercial-3',
+        image: '/image/images/comercial/ALI3.JPG',
+      },
+     {
+        id: 'comercial-4',
+        image: '/image/images/comercial/ALI4.JPG',
+      },
+    ],
   },
   'video-editor': [
     {
@@ -258,7 +286,23 @@ export const worksData = {
      },
      link: "https://vm.tiktok.com/ZN8eJdwpg/",
     },
-
+    {
+      id: 4,
+      title: 'Vídeo promocional de la feria',
+      description: 'Fast-paced editing with product-focused storytelling.',
+      year: '2026',
+      image: '/image/video-editor/T8F.jpg',
+      videoUrl: '/video/T8.mp4',
+      isVideo: true,
+      stats: {
+      views: '100+',
+      likes: '10',
+      comments: '1',
+      favorites: '0',
+      shares: '0',
+     },
+     link: "30 【西班牙🇪🇸餐饮人大会小结 - T8TeaBar | 小红书 - 你的生活兴趣社区】 😆 ibgjEgSiXK48Ufo 😆 https://www.xiaohongshu.com/discovery/item/69d10f9f00000000230274ea?source=webshare&xhsshare=pc_web&xsec_token=AB-DsA8BQZzCP26HFCU3B_IbeIDKQl-u9O1D3mKSFrffE=&xsec_source=pc_share",
+    },
   ],
 };
 

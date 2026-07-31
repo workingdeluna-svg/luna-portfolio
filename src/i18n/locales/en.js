@@ -10,7 +10,7 @@ export default {
     "brand-identity": "Brand Identity",
     "graphic-design": "Graphic Design",
     "photographer": "Photography",
-    "video-editor": "Videography"
+    "video-editor": "Video Editing"
   },
   "categoryDescriptions": {
     "brand-identity": "Building brand core identity and emotional connection through unique visual language, making every touchpoint an extension of the brand story.",
@@ -22,13 +22,14 @@ export default {
     "landscape": "Landscape",
     "portrait": "Portrait",
     "street": "Street",
-    "personal-projects": "Personal Projects"
+    "personal-projects": "Personal Projects",
+    "comercial": "Commercial"
   },
   "home": {
     "welcome": "Welcome",
     "title": "Crafting Visual\nExperiences",
     "description": "I am Luna, a visual designer in the early stages of my career. I have a strong interest in brand identity, graphic design, photography, and video editing, and I am currently practicing how to communicate information through visual language through hands-on projects. Still growing, but taking every detail seriously.",
-    "tags": ["Brand Identity", "Graphic Design", "Photography", "Editing"],
+    "tags": ["Brand Identity", "Graphic Design", "Photography", "Video Editing"],
     "stats": {
       "years": "Years Experience",
       "projects": "Projects",
@@ -85,9 +86,9 @@ export default {
         "title": "TikTok E-commerce Short Video",
         "description": "Fast-paced editing, dynamic subtitles, and product-focused storytelling"
       },
-      "22": {
-        "title": "Typography Animation",
-        "description": "Kinetic typography experiment"
+      "4": {
+        "title": "Event recap video",
+        "description": "Fast-paced editing with product-focused storytelling."
       },
       "23": {
         "title": "Product Demo",

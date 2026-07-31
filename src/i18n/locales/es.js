@@ -10,7 +10,7 @@ export default {
     "brand-identity": "Identidad de Marca",
     "graphic-design": "Diseño Gráfico",
     "photographer": "Fotografía",
-    "video-editor": "Videografía"
+    "video-editor": "Edición de Video"
   },
   "categoryDescriptions": {
     "brand-identity": "Construyendo identidad de marca y conexión emocional a través de un lenguaje visual único, haciendo que cada punto de contacto sea una extensión de la historia de marca.",
@@ -22,7 +22,8 @@ export default {
     "landscape": "Paisaje",
     "portrait": "Retrato",
     "street": "Callejera",
-    "personal-projects": "Proyectos Personales"
+    "personal-projects": "Proyectos Personales",
+    "comercial": "Comercial"
   },
   "home": {
     "welcome": "Bienvenido",
@@ -85,9 +86,9 @@ export default {
         "title": "TikTok E-commerce Short Video",
         "description": "Edición de ritmo rápido, subtítulos dinámicos y narrativa orientada al producto"
       },
-      "22": {
-        "title": "Animación Tipográfica",
-        "description": "Experimento de tipografía cinética"
+      "4": {
+        "title": "Resumen de Evento",
+        "description": "Edición de ritmo rápido con narrativa orientada al producto."
       },
       "23": {
         "title": "Demo de Producto",
