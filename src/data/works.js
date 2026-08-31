@@ -1,8 +1,8 @@
 // 作品数据
 export const workCategories = [
   {
-    id: 'brand-identity',
-    name: 'Brand Identity',
+    id: 'logo-design',
+    name: 'Logo Design',
     description: 'Building brand core identity and emotional connection through unique visual language, making every touchpoint an extension of the brand story.'
   },
   {
@@ -23,7 +23,7 @@ export const workCategories = [
 ];
 
 export const worksData = {
-  'brand-identity': [
+  'logo-design': [
     {
       id: 1,
       title: '金智联盟出海企业咨询',

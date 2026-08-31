@@ -60,7 +60,7 @@ export default function Work() {
   const { categoryId } = useParams();
   const [, setLocation] = useLocation();
   const [activeCategory, setActiveCategory] = useState(
-    categoryId || 'brand-identity'
+    categoryId || 'logo-design'
   );
   const [key, setKey] = useState(0); // 用于触发重新渲染
 
@@ -80,8 +80,8 @@ export default function Work() {
   // 判断是否为摄影分类
   const isPhotography = activeCategory === 'photographer';
   
-  // 判断是否为 Brand Identity 分类
-  const isBrandIdentity = activeCategory === 'brand-identity';
+  // 判断是否为 Logo Design 分类
+  const isBrandIdentity = activeCategory === 'logo-design';
 
   const isGraphicDesign = activeCategory === 'graphic-design';
 

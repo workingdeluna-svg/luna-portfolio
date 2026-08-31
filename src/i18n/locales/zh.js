@@ -7,13 +7,13 @@ export default {
     "contact": "联系"
   },
   "categories": {
-    "brand-identity": "品牌识别",
-    "graphic-design": "平面设计",
+    "logo-design": "Logo设计",
+    "graphic-design": "海报设计",
     "photographer": "摄影",
     "video-editor": "视频剪辑"
   },
   "categoryDescriptions": {
-    "brand-identity": "通过独特的视觉语言构建品牌核心识别与情感连接，让每一个触点都成为品牌故事的延伸。",
+    "logo-design": "通过独特的视觉语言构建品牌核心识别与情感连接，让每一个触点都成为品牌故事的延伸。",
     "graphic-design": "从海报到出版物，创造清晰精准横跨所有媒介的视觉传达。",
     "photographer": "用心捕捉每一个瞬间——风光、人像、街景与个人项目，展现真实的视觉叙事。",
     "video-editor": "通过动态叙事、电影级画质与精心剪辑，打造引人入胜的动态影像。"
@@ -45,7 +45,7 @@ export default {
     "defaultDescription": "这是一件精心创作的作品，体现了设计师对细节的极致追求和对美学的深刻理解。创作过程中经历了多次迭代和打磨，最终呈现出完美的视觉表达。"
   },
   "works": {
-    "brand-identity": {
+    "logo-design": {
       "1": {
         "title": "01 /金智联盟出海企业咨询",
         "description": "结合几何形态与现代排版技术的整体视觉表达，探索品牌识别的边界与可能性。"
@@ -132,7 +132,7 @@ export default {
       "projectOutcome": "项目围绕“出海、智慧、联盟”三大核心理念展开设计，通过 Logo、品牌色彩与数字化应用场景的统一构建，形成完整的品牌视觉识别体系，提升企业专业形象与市场辨识度。"
     },
     "workDescriptions": {
-      "brand-identity": {
+      "logo-design": {
         "1": "金智联盟出海企业咨询是一家专注于企业国际化发展的咨询服务机构，致力于为企业提供海外市场拓展、战略咨询及资源对接服务。\n\n本次设计目标是打造一个兼具专业性、国际化与战略指导属性的品牌形象。"
       },
       "graphic-design": {

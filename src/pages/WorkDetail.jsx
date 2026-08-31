@@ -112,8 +112,8 @@ export default function WorkDetail() {
     );
   }
 
-  // Brand Identity 分类使用特殊布局
-  const isBrandIdentity = categoryId === 'brand-identity';
+  // Logo Design 分类使用特殊布局
+  const isBrandIdentity = categoryId === 'logo-design';
 
   return (
     <div className="min-h-screen p-8 lg:p-12">
@@ -127,7 +127,7 @@ export default function WorkDetail() {
       </button>
 
       {isBrandIdentity ? (
-        // Brand Identity 详情页布局
+        // Logo Design 详情页布局
         <div className="max-w-5xl mx-auto">
           {/* 顶部：项目编号、名称、服务标签 */}
           <header className="text-center py-16 lg:py-24">

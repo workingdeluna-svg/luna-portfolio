@@ -7,13 +7,13 @@ export default {
     "contact": "Contacto"
   },
   "categories": {
-    "brand-identity": "Identidad de Marca",
+    "logo-design": "Diseño Logotipo",
     "graphic-design": "Diseño Gráfico",
     "photographer": "Fotografía",
     "video-editor": "Edición de Video"
   },
   "categoryDescriptions": {
-    "brand-identity": "Construyendo identidad de marca y conexión emocional a través de un lenguaje visual único, haciendo que cada punto de contacto sea una extensión de la historia de marca.",
+    "logo-design": "Construyendo identidad de marca y conexión emocional a través de un lenguaje visual único, haciendo que cada punto de contacto sea una extensión de la historia de marca.",
     "graphic-design": "Desde carteles hasta publicaciones, creando comunicaciones visuales que hablan con claridad y precisión estética en todos los medios.",
     "photographer": "Capturando momentos con intención—paisajes, retratos, escenas callejeras y proyectos personales que revelan una narrativa visual auténtica.",
     "video-editor": "Creando imágenes en movimiento que cautivan e inspiran a través de narración dinámica, calidad cinematográfica y edición reflexiva."
@@ -45,7 +45,7 @@ export default {
     "defaultDescription": "Este es un trabajo cuidadosamente elaborado que refleja la meticulosa atención del diseñador a los detalles y su profunda comprensión de la estética. Pasó por múltiples iteraciones durante el proceso de creación, resultando en una expresión visual perfecta."
   },
   "works": {
-    "brand-identity": {
+    "logo-design": {
       "1": {
         "title": "01 / Consultoría Empresarial en el Extranjero de la Alianza Jinzhi",
         "description": "Diseño tipográfico experimental combinando formas geométricas con técnicas modernas"
@@ -132,7 +132,7 @@ export default {
       "projectOutcome": "El proyecto se centró en los tres conceptos clave de 'extranjero, sabiduría y alianza', construyendo un sistema de identidad visual completo a través de la unificación del logotipo, los colores de la marca y los escenarios de aplicación digital, mejorando la imagen profesional de la empresa y su reconocimiento en el mercado."
     },
     "workDescriptions": {  
-      "brand-identity": {
+      "logo-design": {
         "1": "Consultoría Empresarial en el Extranjero de la Alianza Jinzhi es una firma de consultoría especializada en el desarrollo internacional de empresas, dedicada a proporcionar servicios de expansión de mercado, consultoría estratégica y conexión de recursos en el extranjero.\n\nEl objetivo del diseño fue crear una identidad de marca que combine profesionalismo, internacionalización y atributos de orientación estratégica."
       },
       "graphic-design": {

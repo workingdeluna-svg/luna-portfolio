@@ -7,13 +7,13 @@ export default {
     "contact": "Contact"
   },
   "categories": {
-    "brand-identity": "Brand Identity",
+    "logo-design": "Logo Design",
     "graphic-design": "Graphic Design",
     "photographer": "Photography",
     "video-editor": "Video Editing"
   },
   "categoryDescriptions": {
-    "brand-identity": "Building brand core identity and emotional connection through unique visual language, making every touchpoint an extension of the brand story.",
+    "logo-design": "Building brand core identity and emotional connection through unique visual language, making every touchpoint an extension of the brand story.",
     "graphic-design": "From posters to publications, creating visual communications that speak with clarity and aesthetic precision across all media.",
     "photographer": "Capturing moments with intention—landscapes, portraits, street scenes, and personal projects that reveal authentic visual storytelling.",
     "video-editor": "Crafting moving images that engage and inspire through dynamic storytelling, cinematic quality, and thoughtful editing."
@@ -28,8 +28,8 @@ export default {
   "home": {
     "welcome": "Welcome",
     "title": "Crafting Visual\nExperiences",
-    "description": "I am Luna, a visual designer in the early stages of my career. I have a strong interest in brand identity, graphic design, photography, and video editing, and I am currently practicing how to communicate information through visual language through hands-on projects. Still growing, but taking every detail seriously.",
-    "tags": ["Brand Identity", "Graphic Design", "Photography", "Video Editing"],
+    "description": "I am Luna, a visual designer in the early stages of my career. I have a strong interest in Logo Design, graphic design, photography, and video editing, and I am currently practicing how to communicate information through visual language through hands-on projects. Still growing, but taking every detail seriously.",
+    "tags": ["Logo Design", "Graphic Design", "Photography", "Video Editing"],
     "stats": {
       "years": "Years Experience",
       "projects": "Projects",
@@ -45,7 +45,7 @@ export default {
     "defaultDescription": "This is a carefully crafted work that reflects the designer's meticulous attention to detail and profound understanding of aesthetics. It underwent multiple iterations during the creation process, resulting in a perfect visual expression."
   },
   "works": {
-    "brand-identity": {
+    "logo-design": {
       "1": {
         "title": "01/ Jinzhi Alliance Overseas Enterprise Consulting",
         "description": "Experimental type design combining geometric forms with modern typography techniques"
@@ -135,12 +135,12 @@ export default {
   "growth": "Business Growth Empowerment"
 },
       "businessCard": "",
-      "websiteDesign": "The digital experience transforms brand identity into an interactive environment. The interface prioritizes readability and intuitive navigation, using generous whitespace to let content breathe. Transitions are subtle and restrained, demonstrating the studio's rigor in every interaction. Responsive design elegantly adapts to any device without compromising visual integrity.",
+      "websiteDesign": "The digital experience transforms Logo Design into an interactive environment. The interface prioritizes readability and intuitive navigation, using generous whitespace to let content breathe. Transitions are subtle and restrained, demonstrating the studio's rigor in every interaction. Responsive design elegantly adapts to any device without compromising visual integrity.",
       "projectOutcome": "The project revolves around the three core concepts of 'overseas, wisdom, and alliance', constructing a complete visual identity system through the unification of the logo, brand colors, and digital application scenarios, enhancing the company's professional image and market recognition."
     },
     "workDescriptions": {
-      "brand-identity": {
-        "1": "Jinzhi Alliance Overseas Enterprise Consulting is a consulting service agency focused on the international development of enterprises, dedicated to providing overseas market expansion, strategic consulting, and resource connection services.\n\nThe design goal was to create a brand identity that combines professionalism, internationalization, and strategic guidance attributes."
+      "logo-design": {
+        "1": "Jinzhi Alliance Overseas Enterprise Consulting is a consulting service agency focused on the international development of enterprises, dedicated to providing overseas market expansion, strategic consulting, and resource connection services.\n\nThe design goal was to create a Logo Design that combines professionalism, internationalization, and strategic guidance attributes."
       },
       "graphic-design": {
         "1": "Hero visual design for the grand opening and new product launch of a bubble tea store. Symmetrical composition with a distinctive brand-specific typography, reinforcing brand recognition and conveying visual freshness.",
