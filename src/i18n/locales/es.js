@@ -65,12 +65,20 @@ export default {
         "description": "Diseño de serie literaria con imágenes simbólicas"
       },
       "4": {
-        "title": "Interfaz Web",
-        "description": "Diseño de producto digital enfatizando UX"
+        "title": "Póster Comercial de Auriculares Inalámbricos",
+        "description": "Póster comercial minimalista. Muestra los detalles del producto y las especificaciones principales de los auriculares inalámbricos."
       },
       "5": {
-        "title": "Cartel de Práctica",
-        "description": "Diseño de cartel de práctica"
+        "title": "Póster Comercial de Smartwatch Deportivo",
+        "description": "Utiliza imágenes de running para destacar el uso"
+      }
+      "6": {
+        "title": "Póster de Soporte de Coche para Rejilla ",
+        "description": "Fondo de carretera al atardecer que destaca el agarre seguro, rotación 360°, alta compatibilidad."
+      }
+      "7": {
+        "title": "Póster de Soporte Magnético de Coche",
+        "description": "Fondo de lago escénico que muestra rotación 360°, sujeción magnética estable y compatibilidad."
       }
     },
     "video-editor": {
