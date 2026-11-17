@@ -71,15 +71,15 @@ export default {
       "5": {
         "title": "Sports Smartwatch Commercial Poster",
         "description": "Features running visuals to highlight fitness tracking, music, calls, and SMS."
-      }
+      },
       "6": {
         "title": "Car Air Vent Holder Poster",
         "description": "Sunset highway background highlighting secure grip, 360° rotation, wide compatibility, and vent installation."
-      }
+      },
       "7": {
         "title": "Magnetic Car Mount Poster",
         "description": "Scenic lake background showcasing 360° rotation, stable magnetic hold, and wide compatibility."
-      }
+      },
     },
     "video-editor": {
       "1": {
