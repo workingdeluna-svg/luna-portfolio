@@ -68,7 +68,7 @@ export default function Contact() {
   <div className="flex items-center gap-2 text-neutral-900">
     <MessageCircle className="w-4 h-4 text-green-500" />
     <span className="text-neutral-400">WhatsApp:</span>
-    <span className="text-lg">+34 633 589 968</span>
+    <span className="text-lg">+34 711 269 511</span>
   </div>
 </div>
       </div>
