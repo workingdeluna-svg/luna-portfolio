@@ -64,13 +64,21 @@ export default {
         "title": "T8 Bubble tea Launch Poster",
         "description": "Promotional visual design for new product launch"
       },
-      "11": {
-        "title": "Web Interface",
-        "description": "Digital product design emphasizing UX"
+      "4": {
+        "title": "Commercial Wireless Earbuds Poster",
+        "description": "Minimalist commercial poster. Showcases product details and core specs of wireless earbuds with a clean layout."
       },
-      "12": {
-        "title": "Icon System",
-        "description": "Comprehensive icon library for scalability"
+      "5": {
+        "title": "Sports Smartwatch Commercial Poster",
+        "description": "Features running visuals to highlight fitness tracking, music, calls, and SMS."
+      }
+      "6": {
+        "title": "Car Air Vent Holder Poster",
+        "description": "Sunset highway background highlighting secure grip, 360° rotation, wide compatibility, and vent installation."
+      }
+      "7": {
+        "title": "Magnetic Car Mount Poster",
+        "description": "Scenic lake background showcasing 360° rotation, stable magnetic hold, and wide compatibility."
       }
     },
     "video-editor": {
