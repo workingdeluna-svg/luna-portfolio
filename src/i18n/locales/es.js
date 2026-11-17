@@ -71,15 +71,15 @@ export default {
       "5": {
         "title": "Póster Comercial de Smartwatch Deportivo",
         "description": "Utiliza imágenes de running para destacar el uso"
-      }
+      },
       "6": {
         "title": "Póster de Soporte de Coche para Rejilla ",
         "description": "Fondo de carretera al atardecer que destaca el agarre seguro, rotación 360°, alta compatibilidad."
-      }
+      },
       "7": {
         "title": "Póster de Soporte Magnético de Coche",
         "description": "Fondo de lago escénico que muestra rotación 360°, sujeción magnética estable y compatibilidad."
-      }
+      },
     },
     "video-editor": {
       "1": {
